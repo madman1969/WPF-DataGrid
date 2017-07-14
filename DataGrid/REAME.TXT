@@ -1,0 +1,4 @@
+﻿Lifted this sample solution from:
+
+https://wpftutorial.net/DataGrid.html
+
